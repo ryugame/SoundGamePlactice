@@ -112,7 +112,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = "高吉琉人";
+				ORGANIZATIONNAME = "ryugame";
 				TargetAttributes = {
 					58C3F2C221940CA800B14B1C = {
 						CreatedOnToolsVersion = 10.0;
