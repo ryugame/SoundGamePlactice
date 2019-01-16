@@ -1,0 +1,2 @@
+# SoundGamePlactice
+音ゲーを練習するために作った自分用アプリです とりあえずiPad用
